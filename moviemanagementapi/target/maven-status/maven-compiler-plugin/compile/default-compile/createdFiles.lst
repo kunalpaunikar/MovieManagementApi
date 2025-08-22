@@ -1,0 +1,10 @@
+com\Movie\moviemanagementapi\model\Movie$MovieBuilder.class
+com\Movie\moviemanagementapi\repository\MovieRepository.class
+application.properties
+com\Movie\moviemanagementapi\controller\MovieController.class
+com\Movie\moviemanagementapi\model\Movie.class
+com\Movie\moviemanagementapi\service\MovieService.class
+com\Movie\moviemanagementapi\service\MovieServiceImpl.class
+com\Movie\moviemanagementapi\exception\ResourceNotFoundException.class
+com\Movie\moviemanagementapi\exception\GlobalExceptionHandler.class
+com\Movie\moviemanagementapi\MoviemanagementapiApplication.class
